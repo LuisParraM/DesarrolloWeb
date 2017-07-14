@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+ <defs>
+  <linearGradient id="svg_8" spreadMethod="reflect" x1="0" y1="0" x2="1" y2="0">
+   <stop stop-color="#42ffe8" offset="0"/>
+   <stop stop-color="#bd0017" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g>
+  <title>Layer 1</title>
+  <text fill="url(#svg_8)" stroke-width="0" x="117.970654" y="129.531532" id="svg_1" font-size="24" font-family="serif" text-anchor="middle" xml:space="preserve" transform="matrix(2.5625026139070997,0,0,2.703508998944528,-230.35475777806806,-289.69937346032486) " stroke="#39097c" font-weight="bold" font-style="normal">LPM</text>
+ </g>
+</svg>
